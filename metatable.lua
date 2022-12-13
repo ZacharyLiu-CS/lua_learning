@@ -27,7 +27,6 @@ m_histogram = {
     return histogram
   end
 }
-
 histogram = setmetatable(histogram,m_histogram)
 
 

@@ -1,4 +1,4 @@
-arr = {1,2,3,4,"hello"}
+local arr = {1,2,3,4,"hello"}
 -- for key, val in pairs(arr)do
 --   print(key,val)
 -- end
